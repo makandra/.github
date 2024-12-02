@@ -1,8 +1,7 @@
 <p>
   <a href="https://makandra.de/">
-    <source media="(prefers-color-scheme: light)" srcset="media/makandra.light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="media/makandra.dark.svg">
-    <img align="right" width="250" alt="makandra" src="media/makandra.light.svg">
+    <img align="right" width="250" alt="makandra" src="media/makandra.dark.svg#gh-dark-mode-only">
+    <img align="right" width="250" alt="makandra" src="media/makandra.light.svg#gh-light-mode-only">
   </a>
   <br>
   &nbsp;
