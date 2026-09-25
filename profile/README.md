@@ -26,4 +26,4 @@ Take a look at our repositories on GitHub.
 
 Are you looking for a new challenge and value structured work and genuine team spirit? Then [join makandra](https://makandra.de/en/career-5).
 
-<img src="media/kununu-badges.png" alt="Kununu &quot;Top Company&quot; badges" width="400">
+<img src="media/kununu-badges-2026.png" alt="Kununu &quot;Top Company&quot; badges" width="400">
