@@ -13,7 +13,7 @@
 # Welcome to makandra
 
 We are [makandra](https://makandra.de/), a team of developers, Linux administrators and cloud specialists in Augsburg, Germany.
-We design, develop and operate sophisticated web applications and software products and support our customers with cloud projects.
+When software can’t afford to fail and the stakes are high: we develop web applications and AI solutions for business-critical processes.
 
 <img src="media/people.jpg" alt="Photos of makandra team members">
 
